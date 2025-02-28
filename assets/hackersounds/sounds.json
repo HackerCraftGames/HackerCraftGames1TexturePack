@@ -1,0 +1,10 @@
+{
+    "entry.bienvenida": {
+        "sounds": [
+            {
+                "name": "hackersounds:entry_bienvenida",
+                "stream": false
+            }
+        ]
+    }
+}
